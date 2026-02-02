@@ -82,7 +82,7 @@ This installer solves that problem by using **only proven, safe jails**.
 With Useful Commands Feature:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/safe-fail2ban-blueprint/main/safe-fail2ban-blueprint.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/Qanz4Ever/Fail2Ban-Installer/refs/heads/main/fail2ban-installer.sh | sudo bash
 ```
 
 
@@ -90,7 +90,7 @@ Without Useful Commands Feature (Instant):
 
 
 ```bash
-bash <(curl -fsSL )
+bash <(curl -fsSL https://raw.githubusercontent.com/Qanz4Ever/Fail2Ban-Installer/refs/heads/main/fail2ban-installer.sh)
 ```
 
 ---
@@ -125,7 +125,7 @@ Some files in this repository are intentionally restricted.
 Files containing the marker:
 
 ```
-Created By Mfsavana
+All Code Created By Mfsavana
 ```
 
 are protected under a **secondary license** and are **not open-source**, even though they may be readable.
