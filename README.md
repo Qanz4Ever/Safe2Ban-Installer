@@ -170,7 +170,7 @@ Under this license, the following are **strictly prohibited**:
 
 These files are **source-available but NOT open-source**.
 
-See `LICENSE-MFSAVANA` for full terms.
+See `LICENSE-MFSAVANA.md` for full terms.
 
 ---
 
