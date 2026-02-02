@@ -118,6 +118,20 @@ tail -f /var/log/fail2ban.log
 
 ---
 
+## 🔐 Security Notice
+
+Some files in this repository are intentionally restricted.
+
+Files containing the marker:
+
+```
+Created By Mfsavana
+```
+
+are protected under a **secondary license** and are **not open-source**, even though they may be readable.
+
+---
+
 ## 📜 Licensing
 
 This repository uses a **dual-license system**.
@@ -160,15 +174,27 @@ See `LICENSE-MFSAVANA` for full terms.
 
 ---
 
-## 👤 Author
-
-**Mfsavana**  
-Blueprint Framework Author  
-© 2026
-
----
-
 ## ⭐ Credits
 
 Inspired by real-world Pterodactyl production setups  
 Built for stability, not hype
+
+---
+
+## ⚠️ Disclaimer
+
+This project is **not affiliated with or endorsed by** the Pterodactyl or Blueprint teams.
+
+Use this installer at your own risk.  
+Always ensure you have backups before modifying production systems.
+
+---
+
+## 👤 Author
+
+**Mfsavana**  
+GitHub: https://github.com/Qanz4Ever
+
+---
+
+© 2025 Qanz4Ever / Mfsavana — All Rights Reserved.
