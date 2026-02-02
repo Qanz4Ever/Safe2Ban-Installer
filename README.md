@@ -183,7 +183,7 @@ Built for stability, not hype
 
 ## ⚠️ Disclaimer
 
-This project is **not affiliated with or endorsed by** the Pterodactyl or Blueprint teams.
+This project is **not affiliated with or endorsed by** the Fail2Ban teams.
 
 Use this installer at your own risk.  
 Always ensure you have backups before modifying production systems.
